@@ -1,0 +1,25 @@
+---
+title: "Welcome to my website!"
+format: html
+---
+
+<div style="display: flex; align-items: flex-start;">
+<img src="pfp.jpeg" style="width: 200px; height: auto; margin-right: 20px;" alt="Maria Mangru"/>
+
+<div>
+
+## About Me
+
+Hello! I am a student at the University of Toronto pursuing my Bachelor of Science in Statistics and Economics with a Focus in Data Analytics. 
+
+My academic endeavours are complemented by practical experience in business analytics and strategy consulting, allowing me to apply theoretical insights to tangible business challenges across various industries. 
+
+
+## Contact
+
+Email: [maria.mangru@mail.utoronto.ca](mailto:maria.mangru@mail.utoronto.ca)
+LinkedIn: [mariamangru](https://www.linkedin.com/in/mariamangru/)
+
+</div>
+</div>
+
